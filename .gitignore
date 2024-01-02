@@ -1,0 +1,16 @@
+# IDE, System
+.DS_Store
+.idea
+
+# App config
+/AutoWrapperClose_v2/app/config/parameters.yml
+
+# Generated folders
+
+
+# Composer package manager
+
+# Global xml
+/*.xml
+
+# Excludes
